@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Lead / Senior Front End Developer for several companies.
 - 🌱 I’m currently learning Golang, Rust for high performance backend development.
 - 👯 I’m looking to collaborate on well organized small engineering team.
-- 📫 How to reach me: <h2>Skype-ID is live:.cid.cb139f8ff8cac810</h2>
+- 📫 How to reach me: <h2 style="color: red">Skype-ID is live:.cid.cb139f8ff8cac810</h2>
 
 <table><tr><td valign="top" width="50%">
   
