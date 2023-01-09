@@ -2,7 +2,7 @@
   <h1>WELCOME TO GITHUB</h1>
 </div> 👋
 
-### <div align="center">A generalist software developer who prefer working in a fast-paced environment and can learn fast 🚀</div>  
+### <div align="center"><h2>A generalist software developer who prefer working in a fast-paced environment and can learn fast 🚀</h2></div>  
 
 
 Here are some ideas to get you started:
